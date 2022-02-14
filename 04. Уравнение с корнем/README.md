@@ -1,6 +1,6 @@
 # Уравнение с корнем
 
-$$w = \arg\min_w MSE(Xw, y)$
+$w = \arg\min_w MSE(Xw, y)$
 
 ## Формат ввода
 
